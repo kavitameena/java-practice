@@ -1,8 +1,7 @@
-package snippet;
 import java.util.ArrayList;
 import java.util.List;
  
-public class DuplicateNumber {
+public class DuplicateNumbers {
  
     public int findDuplicateNumber(List<Integer> numbers){
          
